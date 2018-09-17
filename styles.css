@@ -3,7 +3,7 @@ p {
   }
   
   h1 {
-    color: maroon;
+    font-family: impact; color: red;
   }
   
   h2.destination {
