@@ -1,13 +1,14 @@
 p {
-    font-family: impact;
+   font-family: Helvetica;
   }
   
   h1 {
-    font-family: impact; color: red;
+     font-family: Arial; color: blue;
   }
   
-  h2.destination {
-    font-family: cursive;
+  h2{
+    font-family: Georgia;
+    color: red;
   }
   
   .title {
@@ -19,10 +20,6 @@ p {
   }
   .publish-time {
     color: gray;
-  }
-  
-  .cursive {
-    font-family: cursive;
   }
   
   .capitalize {
